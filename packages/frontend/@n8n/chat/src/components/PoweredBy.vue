@@ -1,7 +1,7 @@
 <template>
-	<div class="chat-powered-by">
+	<div class="">
 		Powered by
-		<a href="https://n8n.io?utm_source=n8n-external&utm_medium=widget-powered-by">n8n</a>
+		<a href="https://n8n.io?utm_source=n8n-external&utm_medium=widget-powered-by"></a>
 	</div>
 </template>
 
